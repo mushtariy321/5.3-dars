@@ -18,5 +18,5 @@ let obj = {
     City: "New York",
 }
 for (let key in obj) {
-    console.log(Xobj[key]);
+    console.log(obj[key]);
 }
